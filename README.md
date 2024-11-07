@@ -1,66 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Painel de @sellymoon</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #e0f7ff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+<h1 align="center">👋 Olá, eu sou {Sellena B. Barbosa}</h1>
 
-    .panel {
-      background-color: #003366;
-      color: #ffffff;
-      border-radius: 10px;
-      width: 350px;
-      padding: 20px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonada por Artes e Tecnologia
+</p><br><br>
 
-    .panel h1 {
-      font-size: 24px;
-      margin-bottom: 15px;
-      text-align: center;
-    }
 
-    .panel p {
-      margin: 10px 0;
-      font-size: 16px;
-      line-height: 1.5;
-    }
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=python)<br><br>
 
-    .moon-icon {
-      font-size: 20px;
-      margin-right: 8px;
-    }
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br><br>
 
-    .panel a {
-      color: #87CEFA;
-      text-decoration: none;
-      font-weight: bold;
-    }
+## 📫 Contato
 
-    .panel a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+[![Gmail Badge](https://img.shields.io/badge/-{sellenabb22@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{sellenabb22@gmail.com})](mailto:{SeuEmail})
+[![Linkedin: Sellena](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/) <br><br>
 
-  <div class="panel">
-    <h1><span class="moon-icon">🌙</span>@sellymoon</h1>
-    <p><span class="moon-icon">🌱</span>Atualmente a aprender sobre livros de fantasia e romance.</p>
-    <p><span class="moon-icon">📫</span>Contacte-me nas redes sociais: <a href="https://www.instagram.com/sellycastle">@sellycastle</a></p>
-    <p><span class="moon-icon">👾</span>Estudante de Artes Visuais e criadora de conteúdo sobre livros e cosplay.</p>
-    <p><span class="moon-icon">👀</span>Interesses: programação, artes e design, fotografia e música.</p>
-  </div>
 
-</body>
-</html>
+
+
+Estou iniciando no python para Back-end e programação de IA. Se quiser conversar, dar dicas ou qualquer coisa, adorarei ouvir de quem tem mais experiencia! 😊 <br><br>
