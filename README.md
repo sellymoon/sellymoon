@@ -1,22 +1,30 @@
-<h1 align="center">👋 Olá, eu sou {Sellena B. Barbosa}</h1>
+<h1 align="center">🌙✨ Olá, eu sou a Sellena! ✨🌙</h1>
 
 <p align="center">
-  💻 Estudante de Programação | 🌍 Apaixonada por Artes e Tecnologia
-</p><br><br>
+  Estudante de Python, amante de artes e programação. 
+</p>
 
+---
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python)<br><br>
+### 🌌 Sobre Mim
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)<br><br>
+Sou iniciante no estudo de Python, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!
 
-## 📫 Contato
+---
 
-[![Gmail Badge](https://img.shields.io/badge/-{sellenabb22@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{sellenabb22@gmail.com})](mailto:{SeuEmail})
-<br><br>
+### 💻 Linguagem de Programação:
+- Python
 
+### 🔧 Ferramentas:
+- VS Code
 
+---
 
+### 🌠 Conecte-se comigo
 
-Estou iniciando no python para Back-end e programação de IA. Se quiser conversar, dar dicas ou qualquer coisa, adorarei ouvir de quem tem mais experiencia! 😊 <br><br>
+- 📧 **E-mail:** [sellenabb22@gmail.com](mailto:sellenabb22@gmail.com)
+- 💼 **LinkedIn:** [Sellena Beatriz Barbosa](https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/)
+
+---
+
+<p align="center">✨ Obrigada por visitar o meu perfil! ✨</p>
