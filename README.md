@@ -1,3 +1,5 @@
+<img src="https://tenor.com/kChVJEJvWrb.gif" alt="moon gif" width="70%">
+
 <h1 align="center">🌙✨ Olá, eu sou a Sellena! ✨🌙</h1>
 
 <p align="center">
