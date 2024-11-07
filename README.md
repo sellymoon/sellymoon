@@ -14,7 +14,7 @@
 ## 📫 Contato
 
 [![Gmail Badge](https://img.shields.io/badge/-{sellenabb22@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{sellenabb22@gmail.com})](mailto:{SeuEmail})
-[![Linkedin: Sellena](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/)]([https://www.linkedin.com/in/devellendias/](https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/) <br><br>
+<br><br>
 
 
 
