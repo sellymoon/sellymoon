@@ -10,12 +10,14 @@
 
 ### 🌌 Sobre Mim
 
-Sou iniciante no estudo de Python, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!
+Sou iniciante no estudo de Java, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!
+Também tenho interesse de criar MOD's de jogos que usam JAVA, como o Minecraft, para me aprofundar em meio aos códigos.
 
 ---
 
 ### 💻 Linguagem de Programação:
 - Python
+- Java 
 
 ### 🔧 Ferramentas:
 - VS Code
