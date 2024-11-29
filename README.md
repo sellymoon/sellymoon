@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26tPovp2QCUt3dS7C/giphy.gif" alt="starry sky gif" width="100%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="starry sky gif" width="100%">
 
 <h1 align="center">🌙✨ Olá, eu sou a Sellena! ✨🌙</h1>
 
@@ -16,4 +16,20 @@ Também tenho interesse de criar MOD's de jogos que usam JAVA, como o Minecraft,
 ---
 
 ### 💻 Linguagens de Programação:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 Ferramentas:
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌠 Conecte-se comigo:
+
+- 📧 **E-mail:** [sellenabb22@gmail.com](mailto:sellenabb22@gmail.com)
+- 💼 **LinkedIn:** [Sellena Beatriz Barbosa](https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/)
+- 🎨 **Instagram:** [@sellycastle](https://www.instagram.com/sellycastle/)
+
+---
+
+<p align="center">✨ Obrigada por visitar o meu perfil! ✨</p>
