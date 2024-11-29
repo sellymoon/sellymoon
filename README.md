@@ -1,4 +1,4 @@
-<img src="https://tenor.com/kChVJEJvWrb.gif" alt="moon gif" width="70%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="starry sky gif" width="100%">
 
 <h1 align="center">🌙✨ Olá, eu sou a Sellena! ✨🌙</h1>
 
@@ -10,24 +10,25 @@
 
 ### 🌌 Sobre Mim
 
-Sou iniciante no estudo de Java, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!
+Sou iniciante no estudo de Java, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!  
 Também tenho interesse de criar MOD's de jogos que usam JAVA, como o Minecraft, para me aprofundar em meio aos códigos.
 
 ---
 
-### 💻 Linguagem de Programação:
-- Python
-- Java 
+### 💻 Linguagens de Programação:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Ferramentas:
-- VS Code
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌠 Conecte-se comigo
+### 🌠 Conecte-se comigo:
 
 - 📧 **E-mail:** [sellenabb22@gmail.com](mailto:sellenabb22@gmail.com)
 - 💼 **LinkedIn:** [Sellena Beatriz Barbosa](https://www.linkedin.com/in/sellena-beatriz-barbosa-32b032314/)
+- 🎨 **Instagram:** [@sellycastle](https://www.instagram.com/sellycastle/)
 
 ---
 
