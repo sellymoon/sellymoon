@@ -23,6 +23,12 @@ Também tenho interesse de criar MOD's de jogos que usam JAVA, como o Minecraft,
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="Sellena's GitHub Profile" />
+<meta property="og:description" content="Exploradora de Java e Python, apaixonada por IA e programação. Vamos conversar e compartilhar ideias!" />
+<meta property="og:image" content="URL_DO_SEU_LOGO_OU_IMAGEM" />
+<meta property="og:url" content="https://github.com/sellycastle" />
+
 
 ### 🌠 Conecte-se comigo:
 
