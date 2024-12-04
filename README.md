@@ -3,7 +3,7 @@
 <h1 align="center">🌙✨ Olá, eu sou a Sellena! ✨🌙</h1>
 
 <p align="center">
-  Estudante de Java e Python. Amante de artes, fotografia e programação. 
+  Estudante de Python e Java. Amante de artes, fotografia e programação. 
 </p>
 
 ---
