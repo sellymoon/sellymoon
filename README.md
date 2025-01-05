@@ -10,7 +10,7 @@
 
 ### 🌌 Sobre Mim
 
-Sou iniciante no estudo de Python🐍, com intuito de me tornar uma desenvolvedora **Front-End** em conjunto com conhecimento que tenho em Design e Artes. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!  
+Sou iniciante no estudo de JS, com intuito de me tornar uma desenvolvedora **Front-End** em conjunto com conhecimento que tenho em Design e Artes. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!  
 
 ---
 <!-- Open Graph Meta Tags -->
