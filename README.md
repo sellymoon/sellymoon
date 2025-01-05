@@ -10,17 +10,7 @@
 
 ### 🌌 Sobre Mim
 
-Sou iniciante no estudo de Python🐍, com intuito de me tornar uma desenvolvedora **back-end** e explorar o universo das **IA's**. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!  
-Também tenho interesse de criar MOD's de jogos que usam JAVA, como o Minecraft, para me aprofundar em meio aos códigos apenas como um hobby, então postarei aqui alguns dos projetinhos que tenho em mente.
-
----
-
-### 💻 Linguagens de Programação:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-
-### 🔧 Ferramentas:
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Sou iniciante no estudo de Python🐍, com intuito de me tornar uma desenvolvedora **Front-End** em conjunto com conhecimento que tenho em Design e Artes. Adoraria conversar com quem quiser bater um papo, dar dicas ou compartilhar experiências!  
 
 ---
 <!-- Open Graph Meta Tags -->
